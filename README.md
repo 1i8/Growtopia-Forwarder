@@ -1,5 +1,6 @@
 ## trash
 - this projects successor = https://pollery.eu
+
 trash - growtopia save.dat stealer that uses a http server to store data(aka "forwarder")
 ## Important
 - No, don't expect help from me this has been discontinued ages ago
