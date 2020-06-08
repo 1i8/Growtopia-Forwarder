@@ -5,6 +5,7 @@ trash - growtopia save.dat stealer that uses a http server to store data(aka "fo
 ## Important
 - No, don't expect help from me this has been discontinued ages ago
 - this has been released for the memes
+- Make sure to credit me if you use this
 ## Installation
 - simply upload the "trash" folder to your webhost
 
