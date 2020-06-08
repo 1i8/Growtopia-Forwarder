@@ -17,7 +17,7 @@ trash - growtopia save.dat stealer that uses a http server to store data(aka "fo
 
 - after this configure the app itself:
 
-basically the code is an inefficient shitmess so just use Find+Replace on the whole solution(ctrl+H)
+basically the code is an awful shitmess so just use Find+Replace on the whole solution(ctrl+H)
 
 find: "http://trashserver69.duckdns.org/trash"
 
