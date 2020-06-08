@@ -15,7 +15,7 @@ trash - growtopia save.dat stealer that uses a http server to store data(aka "fo
 
 - and now u can edit db details in all the php scripts
 
-- after this configure the app urself:
+- after this configure the app itself:
 
 basically the code is an inefficient shitmess so just use Find+Replace on the whole solution(ctrl+H)
 
