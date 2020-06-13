@@ -23,7 +23,7 @@ namespace Trash
 		}
 
 		// Token: 0x06000099 RID: 153 RVA: 0x00008700 File Offset: 0x00006900
-		private void button1_Click(object sender, EventArgs e)
+		private void button1_Click_1(object sender, EventArgs e)
 		{
 			SaveFileDialog saveFileDialog = new SaveFileDialog();
 			saveFileDialog.FileName = "stealer.exe";
